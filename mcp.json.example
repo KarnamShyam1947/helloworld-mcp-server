@@ -1,0 +1,16 @@
+{
+    "mcpServers": {
+      "LearningMCP": {
+        "url": "http://localhost:8000/mcp"
+      }
+    }
+  }
+
+// {
+//     "mcpServers": {
+//       "LearningMCP": {
+//         "command": "/workspace/.venv/bin/python",
+//         "args": ["/workspace/server.py"]
+//       }
+//     }
+//   }
