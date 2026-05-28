@@ -5,5 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "fastmcp>=3.3.1",
     "mcp[cli]>=1.27.1",
+    "python-dotenv>=1.2.2",
+    "uvicorn>=0.47.0",
 ]

@@ -1,0 +1,17 @@
+{
+	"servers": {
+		// "LearningMCP": {
+		// 	"type": "stdio",
+		// 	"command": "/home/karnamshyam1947/.local/bin/uv",
+		// 	"args": [
+		// 		"run",
+		// 		"/run/media/karnamshyam1947/MY_DRIVE/mcp-servers/helloworld-mcp-server/server.py"
+		// 	]
+		// }
+		"LearningMCP": {
+			"type": "http",
+			"url": "http://localhost:8000/mcp"
+		}
+	},
+	"inputs": []
+}
